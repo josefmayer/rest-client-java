@@ -13,7 +13,7 @@ Send Request with JSON data:  <br />
 RequestMethod POST   <br />
 
 Retrieve data:  <br />
-RequestMethod GET <br />*
+RequestMethod GET <br />
 
 
 
